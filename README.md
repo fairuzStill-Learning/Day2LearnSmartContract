@@ -1,2 +1,6 @@
 # Day2LearnSmartContract
-This what i learn in day two
+*The code is related check the full code on the full code section in pinned*
+
+# What I learn?
+
+
